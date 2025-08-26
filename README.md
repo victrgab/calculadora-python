@@ -1,4 +1,3 @@
-Show, Victor 👊 aqui vai o **README completo em inglês** já no modelo profissional pra você usar no GitHub.
 
 ---
 
