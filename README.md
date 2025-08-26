@@ -1,10 +1,9 @@
 
----
-
-```markdown
 # 🧮 Integer Calculator
 
 A simple **Python** program to perform basic math operations directly in the terminal.
+
+---
 
 ## 🚀 Features
 - ➕ Addition  
@@ -12,24 +11,29 @@ A simple **Python** program to perform basic math operations directly in the ter
 - ✖️ Multiplication  
 - ➗ Division (with zero division handling)  
 
+---
+
 ## 🛠️ Technologies
 - [Python 3](https://www.python.org/)  
 - Python standard libraries (`os`)  
 
+---
+
 ## 📂 Project Structure
-```
-
+```text
 calculator.py   # Main program file
-
 ````
+
+---
 
 ## ▶️ How to Run
-1. Make sure you have **Python 3** installed.  
-2. Clone this repository:  
+
+1. Make sure you have **Python 3** installed.
+2. Clone this repository:
+
    ```bash
    git clone https://github.com/YOUR-USERNAME/integer-calculator.git
-````
-
+   ```
 3. Enter the project folder:
 
    ```bash
@@ -41,9 +45,11 @@ calculator.py   # Main program file
    python calculator.py
    ```
 
+---
+
 ## 📸 Example of Use
 
-```
+```text
 Integer Calculator
 
 Enter a value: 10
@@ -58,16 +64,16 @@ Enter a value to add with 10: 5
 Result: 15
 ```
 
+---
+
 ## 🔮 Future Improvements
 
-* Add a graphical user interface (Tkinter or PyQt).
-* Allow decimal numbers (float operations).
-* Create automated tests.
+* Add a graphical user interface (Tkinter or PyQt)
+* Allow decimal numbers (float operations)
+* Create automated tests
+
+---
 
 ## 👨‍💻 Author
 
 Made with ❤️ by [Victor Gabriel](https://github.com/victrgab)
-
-```
-
----
